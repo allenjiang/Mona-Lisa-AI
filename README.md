@@ -1,3 +1,3 @@
 # Mona Lisa AI
-Open source useful data science and artificial intelligence tools.
+Useful open source data science and artificial intelligence tools.
 www.monalisax.com
