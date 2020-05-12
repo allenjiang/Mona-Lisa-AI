@@ -1,5 +1,5 @@
 # Mona Lisa AI
-Mona Lisa - for the dualities and orthagonal abilities inclusive of its initials. 
+Mona Lisa - for the dualities and orthagonal abilities of technology. 
 
 Useful Machine Learning and AI tools.
 
