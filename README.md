@@ -1,7 +1,7 @@
 # Mona Lisa AI
 Mona Lisa - for the dualities and orthagonal abilities inclusive of its initials. 
 
-Useful open source data science and artificial intelligence tools.
+Useful Machine Learning and AI tools.
 
 What can technology do for you?
 
