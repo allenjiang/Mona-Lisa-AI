@@ -1,5 +1,6 @@
 # Mona Lisa AI
 Machine Learning and Artificial Intelligence.
+Visit: https://medium.com/@allenjiang
 
 ## Explorations:
 
