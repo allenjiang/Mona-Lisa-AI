@@ -17,4 +17,3 @@ Visit: https://medium.com/@allenjiang
 <br>
 
 # What can technology do for you?
-Mona Lisa: for the dualities and orthagonal abilities of technology.
