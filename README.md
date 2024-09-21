@@ -12,7 +12,7 @@ Visit: https://medium.com/@allenjiang
 <img src="https://raw.githubusercontent.com/allenj813/Mona-Lisa-AI/master/Images/amazon-brazil-locations.png" width="400">
 <br>
 
-### [Arbitrage solar power and real estate oppotunity?](https://github.com/allenj813/Mona-Lisa-AI/blob/master/Solar%20Power%20and%20Real%20Estate%20Opportunity.ipynb)
+### [Arbitrage solar power and real estate opportunity?](https://github.com/allenj813/Mona-Lisa-AI/blob/master/Solar%20Power%20and%20Real%20Estate%20Opportunity.ipynb)
 <img src="https://raw.githubusercontent.com/allenj813/Mona-Lisa-AI/master/Images/australia-solar.png" width="400">
 <br>
 
